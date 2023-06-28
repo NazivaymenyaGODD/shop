@@ -86,6 +86,7 @@ TEMPLATES = [
     },
 ]
 
+
 WSGI_APPLICATION = 'mensline.wsgi.application'
 
 AUTH_USER_MODEL = 'accounts.Account'
